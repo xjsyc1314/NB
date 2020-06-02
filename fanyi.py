@@ -1,5 +1,8 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# —*— codeing = utf-8 —*—
+# @Time:
+# @Author:Syc
+# @File:fanyi.py
+# @Software:PyCharm
  
 from  tkinter import *
 #import tkMessageBox
